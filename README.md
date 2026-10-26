@@ -1,4 +1,4 @@
-# Ziply plugin (UAT)
+#  Ziply plugin (UAT)
 
 The Ziply plugin for Claude and ChatGPT, pointed at the **Ziply UAT environment**. It finds what to write from
 your Ziply topic queue, writes blog posts, pages, eBooks, social posts and Reddit discussions in
